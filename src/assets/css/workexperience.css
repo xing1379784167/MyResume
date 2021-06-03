@@ -1,0 +1,11 @@
+.work-experience {
+    height: 100vh;
+    background-image: url('../../assets/img/under4.jpg');
+    background-size: cover;
+}
+.work-experience .pant {
+    padding: 10px;
+}
+.pant-clothes,.pant-cakes {
+    margin-top: 10px;
+}

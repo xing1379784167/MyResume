@@ -1,0 +1,29 @@
+.project-item{
+    text-align: center;
+    height: 100vh;
+    background-image: url('../../assets/img/under.jpg');
+    background-size: cover;
+    position: relative;
+    
+}
+.project-item h1 {
+  display: block;
+  margin: 30px 0;
+  color: azure;
+}
+.project-item h3 {
+    display: block;
+    margin-top: 20px;
+    color: azure;
+   
+}
+.project-item .myself {
+    display: block;
+    width: 600px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 22%;
+    color: azure;
+    
+}

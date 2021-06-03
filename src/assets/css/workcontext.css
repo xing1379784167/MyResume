@@ -1,0 +1,32 @@
+.work-context {
+    height: 100vh;
+    background-image: url('../../assets/img/under3.jpg');
+    background-size: cover;
+    position: relative;
+}
+.text {
+    font-size: 14px;
+    display: flex;
+}
+.text .date, .company, .job {
+    margin-left: 10px;
+    text-align: center;
+}
+.text .date {
+    width: 150px;
+}
+.text .company {
+    width: 330px;
+}
+.item {
+    padding: 18px 0;
+}
+
+.box-card {
+    width: 750px;
+    background-color: rgba(0, 0, 0, .4);
+    color: #fff;
+    position: absolute;
+    top: 150px;
+    left: 130px;
+}
